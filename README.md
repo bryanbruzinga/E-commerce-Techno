@@ -1,4 +1,4 @@
-# E-commerce-Techno
+# E-commerce Techno
 Site de E-commerce extremamente simples utilizando Vue js 2 criado no curso de Vue Js 2 da [Origamid](https://origamid.com), somente o Front End, aplicando conhecimentos de
 lifecycles hooks, methods, v-bind, v-for, v-if, v-click, computed e watch.  
 
